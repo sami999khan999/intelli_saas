@@ -138,7 +138,7 @@
   }
 
   /* 18 */
-  .p-18-semibold {
+  . -semibold {
     @apply font-semibold text-[18px] leading-[140%];
   }
 
